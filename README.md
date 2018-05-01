@@ -5,6 +5,7 @@ A list of projects that FreeFlow.ai has completed so far.
 ## WEBSITE DEVELOPMENT
 ### Completed
 1) E-Commerce website for college students from Mahindra Ecole Centrale
+2) Educational platform website for a client
 
 ### Ongoing
 1) FreeFlow.ai Company Website
