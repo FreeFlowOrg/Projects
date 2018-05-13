@@ -11,6 +11,7 @@ A list of projects that FreeFlow.ai has completed so far.
 1) FreeFlow.ai Company Website
 2) Fashion Designer Blog
 3) Journal Website
+4) The Nile Mile's Website
 
 ## APP DEVELOPMENT
 ### Ongoing
