@@ -6,12 +6,11 @@ A list of projects that FreeFlow.ai has completed so far.
 ### Completed
 1) E-Commerce website for college students from Mahindra Ecole Centrale
 2) Website For OOB (NGO that provides education)
+3) Journal Website
+4) Fashion Designer Blog
 
 ### Ongoing
 1) FreeFlow.ai Company Website
-2) Fashion Designer Blog
-3) Journal Website
-4) The Nile Mile's Website
 
 ## APP DEVELOPMENT
 ### Ongoing
@@ -24,3 +23,6 @@ A list of projects that FreeFlow.ai has completed so far.
 4) A python API for SyntaxDB.
 
 All the above mentioned products are still under either beta phase or development phase.
+
+### OUR COMMUNITY
+<b>ChaoTech</b> is an Open Source Society that has been started by FreeFlo in order to promote open source software development and spread awareness about latest technological advancements by conducting meetups and workshops.
