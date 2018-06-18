@@ -10,7 +10,7 @@ A list of projects that FreeFlow.ai has completed so far.
 4) Fashion Designer Blog
 
 ### Ongoing
-1) FreeFlow.ai Company Website
+1) FreeFlo Company Website
 
 ## APP DEVELOPMENT
 ### Ongoing
